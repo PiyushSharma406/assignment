@@ -14,7 +14,7 @@
 
 •	Clone this repository
 
-    o	git clone https://github.com/bluprince13/aws-metadata-json
+    o	git clone https://github.com/PiyushSharma406/assignment/tree/main/assignment_2/aws-metadata-json
 
 •	Install pipenv
 
